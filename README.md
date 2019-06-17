@@ -1,5 +1,11 @@
 # demo-nonlinearities [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/qihongl/demo-nonlinearities/master)
 
+The effect of different parameters: 
+- [sigmoid](#sigmoid)
+- [softplus](#softplus)
+- [softmax](#softmax)
+
+
 ### some common nonlinearities
 
 <a href="https://colab.research.google.com/github/qihongl/demo-nonlinearities/blob/master/comparison.ipynb">
@@ -31,3 +37,14 @@
 </a>
 
 <img src="https://github.com/qihongl/demo-nonlinearities/blob/master/figs/softplus-beta.png" width='500'>
+
+
+### softmax 
+
+<img src="https://github.com/qihongl/demo-nonlinearities/blob/master/figs/softmax-func.png" width='400'>
+
+<a href="https://colab.research.google.com/github/qihongl/demo-nonlinearities/blob/master/softmax.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" title="Open in Colab">
+</a>
+
+<img src="https://github.com/qihongl/demo-nonlinearities/blob/master/figs/softmax-tau.png" width='550'>
